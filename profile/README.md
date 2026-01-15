@@ -1,6 +1,8 @@
 # Welcome to Butterclient! 🧈
 
-Butterclient is an upcoming Minecraft client with a strong focus on **FPS**, **Startup Time**, and **customization**. We aim to enhance your Minecraft experience by providing a smooth and personalized gameplay environment.
+Butterclient is an upcoming Minecraft client with a strong focus on **Startup Time**, **FPS**, and **customization**. We aim to enhance your Minecraft experience by providing a smooth and personalized gameplay environment.
+
+Currently it targets 1.21.11 as the only version available. 
 
 ## Features
 
