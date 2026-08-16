@@ -1,22 +1,32 @@
-# Welcome to ButterClient! 🧈
+# ButterClient 
 
-Butterclient is an upcoming Minecraft client with a strong focus on **Startup Time**, **FPS**, and **customization**. We aim to enhance your Minecraft experience by providing a smooth and personalized gameplay environment.
+ButterClient is a performance-focused modification for **Minecraft: Java Edition**.
 
-Currently it targets 26.2 as the only version available. 
+The project focuses on reducing rendering overhead and startup time while providing a customizable client-side experience. ButterClient targets modern Minecraft versions and is built around a custom launcher, rendering optimizations, UI framework, and optional mod-loader compatibility.
 
-## Features
+> ButterClient is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
 
-- **High FPS:** Optimized performance to ensure you get the best FPS possible.
-- **Startup Time:** Make it fast as f***
-- **Customization:** Extensive options to tailor the client to your preferences.
+## What ButterClient does
 
-## Status
+ButterClient focuses on several areas of the Minecraft client:
 
-**No pending release date yet.** Stay tuned for updates!
+- **Rendering performance**  
+  Renderer and terrain-pipeline optimizations aimed at reducing CPU and GPU overhead.
 
-## Connect with Us
+- **Startup performance**  
+  Work on dependency handling, game bootstrap, and initialization to reduce time between pressing Play and entering Minecraft.
 
-Soon™️
+- **Customization**  
+  Client-side modules, HUD customization, waypoints, accessibility features, and other gameplay utilities.
 
+- **Modern Minecraft support**  
+  ButterClient follows current Minecraft: Java Edition releases rather than maintaining a large collection of legacy versions.
 
-Stay tuned for more updates and get ready to experience Minecraft like never before with Butterclient! 🧈
+- **Mod compatibility**  
+  The launcher can integrate with supported mod-loader environments while keeping ButterClient's own modifications separate from third-party mods.
+
+## Project status
+
+ButterClient is under active development.
+
+There is currently no announced public release date. Development is focused on performance, compatibility, authentication, and making the launcher suitable for normal public use.
